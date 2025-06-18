@@ -1,12 +1,12 @@
 {
-  "build": "h80987f9_0",
+  "build": "h02f6b3c_0",
   "build_number": 0,
   "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
   "constrains": [],
   "depends": [
     "ca-certificates"
   ],
-  "extracted_package_dir": "/opt/miniconda3/pkgs/openssl-3.0.15-h80987f9_0",
+  "extracted_package_dir": "/opt/miniconda3/pkgs/openssl-3.0.16-h02f6b3c_0",
   "files": [
     "bin/c_rehash",
     "bin/openssl",
@@ -166,32 +166,32 @@
     "ssl/openssl.cnf",
     "ssl/openssl.cnf.dist"
   ],
-  "fn": "openssl-3.0.15-h80987f9_0.conda",
+  "fn": "openssl-3.0.16-h02f6b3c_0.conda",
   "license": "Apache-2.0",
   "link": {
-    "source": "/opt/miniconda3/pkgs/openssl-3.0.15-h80987f9_0",
+    "source": "/opt/miniconda3/pkgs/openssl-3.0.16-h02f6b3c_0",
     "type": 1
   },
-  "md5": "c2c87619d649eed858f134d357f6d2be",
+  "md5": "3c6b0bbc9af0e6711ed6487e9dc7cfc0",
   "name": "openssl",
-  "package_tarball_full_path": "/opt/miniconda3/pkgs/openssl-3.0.15-h80987f9_0.conda",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/openssl-3.0.16-h02f6b3c_0.conda",
   "paths_data": {
     "paths": [
       {
         "_path": "bin/c_rehash",
         "file_mode": "text",
         "path_type": "hardlink",
-        "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5fmudehn4x/croot/openssl_1725545325356/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
-        "sha256": "82aec6245d0813901c4d056e499b3461e44fcb200ef1aeb5a5807db8485074ea",
-        "sha256_in_prefix": "6a9111eb1f0e37acbd8695824dc6df16196e511b684ae0fc3cec1768d905b0e8",
+        "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e8hl0y50gh/croot/openssl_1740989493639/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "f33090720d9f20fd070a546802382a7533199dc2db5a29cd6e2bb66b0dc0eb81",
+        "sha256_in_prefix": "4c19df82fbcae2be272a3c720e06cb9d125c34f46a2870a3bf1e2b279f96eef0",
         "size_in_bytes": 7203
       },
       {
         "_path": "bin/openssl",
         "path_type": "hardlink",
-        "sha256": "3c1f01b91041e208cae03ce3ca53382845e62aa0c6c3d08abf1d315de39fb8cf",
-        "sha256_in_prefix": "3c1f01b91041e208cae03ce3ca53382845e62aa0c6c3d08abf1d315de39fb8cf",
-        "size_in_bytes": 859328
+        "sha256": "3cadcf88c1f3f8bf5236a9e4424f3f823e3297c91172932f1c914c02e0781629",
+        "sha256_in_prefix": "3cadcf88c1f3f8bf5236a9e4424f3f823e3297c91172932f1c914c02e0781629",
+        "size_in_bytes": 859280
       },
       {
         "_path": "include/openssl/aes.h",
@@ -343,9 +343,9 @@
       {
         "_path": "include/openssl/cmserr.h",
         "path_type": "hardlink",
-        "sha256": "7379aa9788076a36163e143525efaa28402f731a3d1cf9acf5ef4a64e6b94e23",
-        "sha256_in_prefix": "7379aa9788076a36163e143525efaa28402f731a3d1cf9acf5ef4a64e6b94e23",
-        "size_in_bytes": 6668
+        "sha256": "250953529ec294424fd84e58ebb6c65d1047ff9c78a19c9ba1a2a948bcbbed64",
+        "sha256_in_prefix": "250953529ec294424fd84e58ebb6c65d1047ff9c78a19c9ba1a2a948bcbbed64",
+        "size_in_bytes": 6731
       },
       {
         "_path": "include/openssl/comp.h",
@@ -658,9 +658,9 @@
       {
         "_path": "include/openssl/http.h",
         "path_type": "hardlink",
-        "sha256": "70777f3993fce1e96dd54a1c8f839da604753f9c92cdafcaa5f268ce608bb0cd",
-        "sha256_in_prefix": "70777f3993fce1e96dd54a1c8f839da604753f9c92cdafcaa5f268ce608bb0cd",
-        "size_in_bytes": 5286
+        "sha256": "dd409efeca44be216a7af99b9f39653a5129bfc05f415d6dfaec17758641e1ca",
+        "sha256_in_prefix": "dd409efeca44be216a7af99b9f39653a5129bfc05f415d6dfaec17758641e1ca",
+        "size_in_bytes": 5346
       },
       {
         "_path": "include/openssl/httperr.h",
@@ -784,9 +784,9 @@
       {
         "_path": "include/openssl/opensslv.h",
         "path_type": "hardlink",
-        "sha256": "159c757eebfc451ffb64a718642c1330ec82b6eaabd931187bb80a40a72cf3ee",
-        "sha256_in_prefix": "159c757eebfc451ffb64a718642c1330ec82b6eaabd931187bb80a40a72cf3ee",
-        "size_in_bytes": 3188
+        "sha256": "e9f6ce6544c20b88b4fc4234112cdfb99e532c31e534bf42bf3bf84069a57b7c",
+        "sha256_in_prefix": "e9f6ce6544c20b88b4fc4234112cdfb99e532c31e534bf42bf3bf84069a57b7c",
+        "size_in_bytes": 3190
       },
       {
         "_path": "include/openssl/ossl_typ.h",
@@ -1141,100 +1141,100 @@
       {
         "_path": "lib/engines-3/capi.dylib",
         "path_type": "hardlink",
-        "sha256": "013613519db17fae8489db54bcededfc01bf1e9883e4fc659ac61d2f6ba09d49",
-        "sha256_in_prefix": "013613519db17fae8489db54bcededfc01bf1e9883e4fc659ac61d2f6ba09d49",
+        "sha256": "44fc48fb8fe652246dac76c6c739cba5a703da9efd2c492dd96e4f6fe2f7cf1d",
+        "sha256_in_prefix": "44fc48fb8fe652246dac76c6c739cba5a703da9efd2c492dd96e4f6fe2f7cf1d",
         "size_in_bytes": 33872
       },
       {
         "_path": "lib/engines-3/loader_attic.dylib",
         "path_type": "hardlink",
-        "sha256": "db11db19452996f8f1220426764d4fca7da8067f72c35e9f7679f8faaacf062a",
-        "sha256_in_prefix": "db11db19452996f8f1220426764d4fca7da8067f72c35e9f7679f8faaacf062a",
+        "sha256": "86d988dd9578c03c01fed9a4c6a8017a134a74780f6e48ec525615a76bdea287",
+        "sha256_in_prefix": "86d988dd9578c03c01fed9a4c6a8017a134a74780f6e48ec525615a76bdea287",
         "size_in_bytes": 98464
       },
       {
         "_path": "lib/engines-3/padlock.dylib",
         "path_type": "hardlink",
-        "sha256": "91da5fd31a37263344b5ac28f90aa1ac442527a1ea4d377fb8f7b9819d70ca01",
-        "sha256_in_prefix": "91da5fd31a37263344b5ac28f90aa1ac442527a1ea4d377fb8f7b9819d70ca01",
+        "sha256": "38c137541f473524be39a49151103ff057d39fcb0090ad4446c9271187ceed4b",
+        "sha256_in_prefix": "38c137541f473524be39a49151103ff057d39fcb0090ad4446c9271187ceed4b",
         "size_in_bytes": 33888
       },
       {
         "_path": "lib/libcrypto.3.dylib",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5fmudehn4x/croot/openssl_1725545325356/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
-        "sha256": "0949ce5b301370dfc2d1727746052ab886ecad8687715c81c46865b90a5cf134",
-        "sha256_in_prefix": "e69c542f031f77c839ef36f0842fa6836e29dbfae8baae212cccab55ba26fd6b",
-        "size_in_bytes": 3558768
+        "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e8hl0y50gh/croot/openssl_1740989493639/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "04cde17c1e072e353689c9ae324f510e5517c841875e59befc3682e33e351a6c",
+        "sha256_in_prefix": "6cba9341b8f003fb86edbeb9e42b2f583ff94f67f179030f83b46d344052db40",
+        "size_in_bytes": 3558864
       },
       {
         "_path": "lib/libcrypto.a",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5fmudehn4x/croot/openssl_1725545325356/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
-        "sha256": "62fb524642aa05bb764a2368031a16d26b10727093b1a65235854e59952815fa",
-        "sha256_in_prefix": "b9f0d619b39a9502583029745993eff685c36a4bf19883ac8fe4512371472032",
-        "size_in_bytes": 6611024
+        "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e8hl0y50gh/croot/openssl_1740989493639/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "446d68b78c1551582e053d34bd79e1883995d47b0b3474d7b26333125a35ad93",
+        "sha256_in_prefix": "aed6bfd45c62bb67a57ccfa48d0d9f3c25d0d94ab9dbfb4ec9b2464935e1f2ce",
+        "size_in_bytes": 6612752
       },
       {
         "_path": "lib/libcrypto.dylib",
         "path_type": "softlink",
-        "sha256": "0949ce5b301370dfc2d1727746052ab886ecad8687715c81c46865b90a5cf134",
-        "size_in_bytes": 3558768
+        "sha256": "04cde17c1e072e353689c9ae324f510e5517c841875e59befc3682e33e351a6c",
+        "size_in_bytes": 3558864
       },
       {
         "_path": "lib/libssl.3.dylib",
         "path_type": "hardlink",
-        "sha256": "093b7ebb4418a9cb1d4aa16efd11ccc0df57ce0335f1e9b72d807e88044891d4",
-        "sha256_in_prefix": "093b7ebb4418a9cb1d4aa16efd11ccc0df57ce0335f1e9b72d807e88044891d4",
+        "sha256": "8173f24cec6c1d161e4683936215f5cbb730ad6778a1b725e870e3951bab95e2",
+        "sha256_in_prefix": "8173f24cec6c1d161e4683936215f5cbb730ad6778a1b725e870e3951bab95e2",
         "size_in_bytes": 620208
       },
       {
         "_path": "lib/libssl.a",
         "path_type": "hardlink",
-        "sha256": "61c9c03712764c2a179f278cd47a7f48cf3fdbc2339f708200f4590d29ddad4c",
-        "sha256_in_prefix": "61c9c03712764c2a179f278cd47a7f48cf3fdbc2339f708200f4590d29ddad4c",
-        "size_in_bytes": 947032
+        "sha256": "8e2dc4facf0687bccfa4466dc9cd32568176e4571d100cee7caf978a924784b4",
+        "sha256_in_prefix": "8e2dc4facf0687bccfa4466dc9cd32568176e4571d100cee7caf978a924784b4",
+        "size_in_bytes": 946992
       },
       {
         "_path": "lib/libssl.dylib",
         "path_type": "softlink",
-        "sha256": "093b7ebb4418a9cb1d4aa16efd11ccc0df57ce0335f1e9b72d807e88044891d4",
+        "sha256": "8173f24cec6c1d161e4683936215f5cbb730ad6778a1b725e870e3951bab95e2",
         "size_in_bytes": 620208
       },
       {
         "_path": "lib/ossl-modules/legacy.dylib",
         "path_type": "hardlink",
-        "sha256": "90ba9b848cc5511285f408911ac3af47181e86e7ebb47bedbf34429fd407892e",
-        "sha256_in_prefix": "90ba9b848cc5511285f408911ac3af47181e86e7ebb47bedbf34429fd407892e",
+        "sha256": "2220cda3418ec5e6cbcc86f1afaa7c60583b2379f6155e2426c7f0b5367592e6",
+        "sha256_in_prefix": "2220cda3418ec5e6cbcc86f1afaa7c60583b2379f6155e2426c7f0b5367592e6",
         "size_in_bytes": 145184
       },
       {
         "_path": "lib/pkgconfig/libcrypto.pc",
         "file_mode": "text",
         "path_type": "hardlink",
-        "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5fmudehn4x/croot/openssl_1725545325356/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
-        "sha256": "8b1b5b260464da78307a648bc7db79f97987447a4fd94665051c972c50ce80fc",
-        "sha256_in_prefix": "e29ac9fda1c9e87ec8914b83925137d7af0a09e746d32cfddb90b7aa3c4af6fa",
+        "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e8hl0y50gh/croot/openssl_1740989493639/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "01d89ca9e4dc53d30d72a0f17400e1fd117c28b344fd66622c10ea8773621a77",
+        "sha256_in_prefix": "59d4b55d362510730accdb46f3c79ceafd6bbeb115e4cb7ccc433cffa9b82776",
         "size_in_bytes": 555
       },
       {
         "_path": "lib/pkgconfig/libssl.pc",
         "file_mode": "text",
         "path_type": "hardlink",
-        "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5fmudehn4x/croot/openssl_1725545325356/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
-        "sha256": "d3e0af72e70ed9c1bad9fbc12cc892dcf74d010551f03c57c9961a8b7fc87f3a",
-        "sha256_in_prefix": "cd929ecd1522c0fb1c24f82b578fca8317f0ee352b51dc664b501d81351a8edd",
+        "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e8hl0y50gh/croot/openssl_1740989493639/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "c3eb6d085185b030db752b6a2b513c06e068c77d54fac36a34586504d8d8503f",
+        "sha256_in_prefix": "9be48a63a61472f1b0ec5b375764ac54a08e89cf6d0f6fb1955022ffb1b5c6dc",
         "size_in_bytes": 515
       },
       {
         "_path": "lib/pkgconfig/openssl.pc",
         "file_mode": "text",
         "path_type": "hardlink",
-        "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5fmudehn4x/croot/openssl_1725545325356/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
-        "sha256": "617a1d577f1cd4a0d873f066210972dbbdb98a638dcbfe08821a34e58cd630d3",
-        "sha256_in_prefix": "ec6bcb21865020b4abcc72881bc1c5fc8b03c082987d0bfdecb5e1abac6c74bd",
+        "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e8hl0y50gh/croot/openssl_1740989493639/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "621195596d85692114b4f41ead5e1dbb02a2dac1efb4c6b8156c7d101e5fb991",
+        "sha256_in_prefix": "00ac0336c3dbf764698bc628e3766bbe5b525f2d8d125f4cd96e019b1f466bfa",
         "size_in_bytes": 469
       },
       {
@@ -1254,21 +1254,21 @@
       {
         "_path": "ssl/misc/CA.pl",
         "path_type": "hardlink",
-        "sha256": "c9ae67841cc035fcdfeb0fdeca8c85d470b3238c7b8bc828614ff50593577341",
-        "sha256_in_prefix": "c9ae67841cc035fcdfeb0fdeca8c85d470b3238c7b8bc828614ff50593577341",
+        "sha256": "89ebd98ea51e114be359c96c6a64aa6a1daeeb1c44ca32a089a6b2bdc169ad4f",
+        "sha256_in_prefix": "89ebd98ea51e114be359c96c6a64aa6a1daeeb1c44ca32a089a6b2bdc169ad4f",
         "size_in_bytes": 8156
       },
       {
         "_path": "ssl/misc/tsget",
         "path_type": "softlink",
-        "sha256": "8982d81c682d9fc5bf3530075cd5f83e2c2174243b6fc24615b84c2ce3e02600",
+        "sha256": "b79d7ea75c5e8b4da35ff0f76a15960c2c118bdff9110e1aab5151d0f917c9ea",
         "size_in_bytes": 6841
       },
       {
         "_path": "ssl/misc/tsget.pl",
         "path_type": "hardlink",
-        "sha256": "8982d81c682d9fc5bf3530075cd5f83e2c2174243b6fc24615b84c2ce3e02600",
-        "sha256_in_prefix": "8982d81c682d9fc5bf3530075cd5f83e2c2174243b6fc24615b84c2ce3e02600",
+        "sha256": "b79d7ea75c5e8b4da35ff0f76a15960c2c118bdff9110e1aab5151d0f917c9ea",
+        "sha256_in_prefix": "b79d7ea75c5e8b4da35ff0f76a15960c2c118bdff9110e1aab5151d0f917c9ea",
         "size_in_bytes": 6841
       },
       {
@@ -1289,10 +1289,10 @@
     "paths_version": 1
   },
   "requested_spec": "None",
-  "sha256": "9c463beaf44cfbc4dcfa949f1a2acb70930e93a7a20a158b2747d50a301fc65c",
-  "size": 4554944,
+  "sha256": "0546f677f26e897791cce7dd2fbb71d19874b1dbe66b5e2131e8fc8a61854161",
+  "size": 4510912,
   "subdir": "osx-arm64",
-  "timestamp": 1725545955000,
-  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/openssl-3.0.15-h80987f9_0.conda",
-  "version": "3.0.15"
+  "timestamp": 1740990210000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/openssl-3.0.16-h02f6b3c_0.conda",
+  "version": "3.0.16"
 }

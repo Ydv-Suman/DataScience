@@ -184,3 +184,14 @@
 +defaults/osx-arm64::zlib-1.2.13-h18a0788_1
 +defaults/osx-arm64::zstd-1.5.6-hfb09047_0
 # update specs: ['jupyter', 'matplotlib', 'numpy', 'pandas', 'scikit-learn']
+==> 2025-06-18 16:55:40 <==
+# cmd: /opt/miniconda3/condabin/conda install --yes --prefix /Users/sumanyadav/Desktop/DataScience/ml_course/sample_project/env seaborn
+# conda version: 24.11.1
+-defaults/osx-arm64::ca-certificates-2024.12.31-hca03da5_0
+-defaults/osx-arm64::certifi-2024.12.14-py312hca03da5_0
+-defaults/osx-arm64::openssl-3.0.15-h80987f9_0
++defaults/osx-arm64::ca-certificates-2025.2.25-hca03da5_0
++defaults/osx-arm64::certifi-2025.4.26-py312hca03da5_0
++defaults/osx-arm64::openssl-3.0.16-h02f6b3c_0
++defaults/osx-arm64::seaborn-0.13.2-py312hca03da5_3
+# update specs: ['seaborn']
